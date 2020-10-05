@@ -1,7 +1,7 @@
 # Test Card
 
 ## Project setup
-
+By using this command all the necessary libraries will be installed into your computer and you will be able to run the project 
 ```
 npm install
 ```
